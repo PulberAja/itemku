@@ -179,7 +179,7 @@
 }
 
 .text-middle {
-	vertical-align: 2;
+	vertical-align: inherit;
 }
 
 .text-top {
